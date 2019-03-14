@@ -1,24 +1,24 @@
 # Roteiro das Aulas
 
-[\# 01 - Apresentação da Disciplina (15/03/2019, SEX)(#-01---apresentação-da-disciplina-15032019-sex)<br>
-[\# 02 - Estrutura com HTML (22/03/2019, SEX)(#-02---estrutura-com-html-22032019-sex)<br>
-[\# 03 - Estilo com CSS (29/03/2019, SEX)(#-03---estilo-com-css-29032019-sex)<br>
-[\# 04 - Criando e reutilizando CSS (05/04/2019, SEX)(#-04---criando-e-reutilizando-css05042019-sex8)<br>
-[\# 05 - Criando Dashboard Admin (12/04/2019, SEX)(#-05---criando-dashboard-admin-12042019-sex)<br>
+[\# 01 - Apresentação da Disciplina (15/03/2019, SEX)](#-01---apresentação-da-disciplina-15032019-sex)<br>
+[\# 02 - Estrutura com HTML (22/03/2019, SEX)](#-02---estrutura-com-html-22032019-sex)<br>
+[\# 03 - Estilo com CSS (29/03/2019, SEX)](#-03---estilo-com-css-29032019-sex)<br>
+[\# 04 - Criando e reutilizando CSS (05/04/2019, SEX)](#-04---criando-e-reutilizando-css05042019-sex8)<br>
+[\# 05 - Criando Dashboard Admin (12/04/2019, SEX)](#-05---criando-dashboard-admin-12042019-sex)<br>
 [\# 06 - Avalição de HTML e CSS & Introdução ao Javascript ECMA (26/04/2019, SEX)](#-06---avalição-de-html-e-css--introdução-ao-javascript-ecma-26042019-sex)<br>
-[\# 07 - Introdução ao Javascript Web (03/05/2019, SEX)(#-07---introdução-ao-javascript-web-03052019-sex)<br>
-[\# 08 - Geração Dinâmica com JS (10/05/2019, SEX)(#-08---geração-dinâmica-com-js-10052019-sex)<br>
+[\# 07 - Introdução ao Javascript Web (03/05/2019, SEX)](#-07---introdução-ao-javascript-web-03052019-sex)<br>
+[\# 08 - Geração Dinâmica com JS (10/05/2019, SEX)](#-08---geração-dinâmica-com-js-10052019-sex)<br>
 [\# 09 - Consumindo JSON e Geração Dinâmica com JS (17/05/2019, SEX)](#-09---consumindo-json-e-geração-dinâmica-com-js-17052019-sex)<br>
-[\# 10 - Pacotes JS (24/05/2019, SEX)(#-10---pacotes-js-24052019-sex)<br>
+[\# 10 - Pacotes JS (24/05/2019, SEX)](#-10---pacotes-js-24052019-sex)<br>
 [\# 11 - Avalição de Javascript e Propostas de Projeto (31/05/2019, SEX)](#-11---avalição-de-javascript-e-propostas-de-projeto-31052019-sex)<br>
-[\# 12 - Acompanhamento do Projeto (07/06/2019, SEX)(#-12---acompanhamento-do-projeto-07062019-sex)<br>
+[\# 12 - Acompanhamento do Projeto (07/06/2019, SEX)](#-12---acompanhamento-do-projeto-07062019-sex)<br>
 [\# 13 - Servidor LAMP e Projeto Final (Front-end) (14/06/2019, SEX)](#-13---servidor-lamp-e-projeto-final-front-end-14062019-sex)<br>
-[\# 14 - Fundamentos de PHP (28/06/2019, SEX)(#-14---fundamentos-de-php-28062019-sex)<br>
-[\# 15 - APIs em PHP (09/08/2019, SEX)(#-15---apis-em-php-09082019-sex)<br>
-[\# 16 - PHP Web (16/08/2019, SEX)(#-16---php-web-16082019-sex)<br>
-[\# 17 - MySQL (17/08/2019, SÁB)(#-17---mysql-17082019-sáb)<br>
-[\# 18 - PHP PDO (23/08/2019, SEX)(#-18---php-pdo-23082019-sex)<br>
-[\# 19 - Acompanhamento do Projeto (30/08/2019, SEX)(#-19---acompanhamento-do-projeto-30082019-sex)<br>
+[\# 14 - Fundamentos de PHP (28/06/2019, SEX)](#-14---fundamentos-de-php-28062019-sex)<br>
+[\# 15 - APIs em PHP (09/08/2019, SEX)](#-15---apis-em-php-09082019-sex)<br>
+[\# 16 - PHP Web (16/08/2019, SEX)](#-16---php-web-16082019-sex)<br>
+[\# 17 - MySQL (17/08/2019, SÁB)](#-17---mysql-17082019-sáb)<br>
+[\# 18 - PHP PDO (23/08/2019, SEX)](#-18---php-pdo-23082019-sex)<br>
+[\# 19 - Acompanhamento do Projeto (30/08/2019, SEX)](#-19---acompanhamento-do-projeto-30082019-sex)<br>
 [\# 20 - Avaliação de PHP e Projeto Final (Back-end) (31/08/2019, SÁB)](#-20---avaliação-de-php-e-projeto-final-back-end-31082019-sáb)<br>
 
 ## \# 01 - Apresentação da Disciplina (15/03/2019, SEX)
