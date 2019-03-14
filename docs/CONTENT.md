@@ -21,3 +21,7 @@
 * MySQL
   * Fundamentos de BDR
   * SQL (criação e manipulação)
+
+Este mapa mental também ilustra o conteúdo da disciplina:
+
+[![Mapa mental](CONTENT.svg)](CONTENT.svg)
