@@ -6,6 +6,14 @@ A disciplina de Desenvolvimento para Web (DW) do Curso Superior de Tecnologia em
 
 A disciplina apresenta o seguinte [conteúdo](docs/CONTENT.md) que será dividido conforme este [roteiro de aula](docs/OUTLINE.md) e este [Google Classroom](https://classroom.google.com/u/2/c/MzA3ODc1Mzg4NjRa).
 
+## Horário e ambiente
+
+As aulas da disciplina serão alocados nesse horário e ambiente:
+
+| Dia | Horário | Ambiente |
+|-|-|-|
+| Sexta | 07:00-11:30 | Laboratório de Software |
+
 ## Avaliações
 
 A nota final será computado através da média ponderada das três maiores avaliações:

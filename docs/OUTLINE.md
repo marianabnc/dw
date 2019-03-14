@@ -44,7 +44,7 @@
 * A legibilidade de uma linguagem de marcação tem alguma relação com o tamanho do documento?
 
 **Exercício:**
-* Analise o [site da discplina](https://ifpb.github.io/lm/) e se inscreva no channel `#dw20181` do [slack do ifpb](https://ifpb.slack.com).
+* Analise o [site da discplina](https://ifpb.github.io/dw/) e se inscreva no channel `#dw-20192` do [slack do ifpb](https://ifpb.slack.com).
 * Configure seu computador com essas [ferramentas](TOOLS.md).
 * Descreva o que acontece ao acessar uma página da Web, como a do [IFPB](http://www.ifpb.edu.br)
 * Pesquise sobre a evolução da Web.
@@ -369,6 +369,7 @@
 **Conteúdo:**
 - [PHP Guide](https://ifpb.github.io/php-guide/)
   - [PHP Core](https://ifpb.github.io/php-guide/core/)
+    - [Values and Types](https://ifpb.github.io/php-guide/core/values-and-types/)
     - [Variable](https://ifpb.github.io/php-guide/core/variable/)
     - [Expression and Operator](https://ifpb.github.io/php-guide/core/expression-and-operator/)
     - [Statements](https://ifpb.github.io/php-guide/core/statements/)
@@ -379,10 +380,10 @@
 
 **Reflexão:**
 * Como executamos código PHP?
+* Quais são os tipos da linguagem PHP?
 * Como declaramos variáveis no PHP?
-* Quais são os tipos de dados do PHP?
-* Quais são os operadores do PHP?
-* Quais são as estruturas de controle e repetição do PHP?
+* Quais são os operadores do PHP, e como elaboramos expressões?
+* Quais são as estruturas de decisão e repetição do PHP?
 * Como criamos uma função em PHP?
 * O que acontece quando passamos uma quantidade de argumentos diferente do total de parâmetros?
 * Como executamos comandos via PHP?
